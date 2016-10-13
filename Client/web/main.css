@@ -1,0 +1,19 @@
+input:invalid:required:focus {
+    border: 1px solid red;
+    outline: none;
+}
+input:invalid:required {
+    background: pink;
+}
+table {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1, h2, h3 {
+    text-align: center;
+    padding: 3% 0% 3% 0%;
+}
+input{
+    text-align: right;
+}
