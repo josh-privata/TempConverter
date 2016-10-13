@@ -22,6 +22,7 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
+
 ## Synopsis
 The goal of this project was to develop Web Services applications to allow clients to
 convert temperature unit from any scale.
